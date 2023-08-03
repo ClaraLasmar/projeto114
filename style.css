@@ -4,7 +4,7 @@ h3
 }
 .btn-success:hover
 {
-    background-color: red;
+    background-color: palevioletred;
 }
 canvas {
     animation-name: example;
@@ -12,6 +12,6 @@ canvas {
     animation-iteration-count: infinite;
 }
 @keyframes example {
-    from{box-shadow: 1px 1px 38px red;}
-    to{box-shadow: 1px 1px 38px yellow;}
+    from{box-shadow: 1px 1px 38px plum;}
+    to{box-shadow: 1px 1px 38px powderblue;}
 }
